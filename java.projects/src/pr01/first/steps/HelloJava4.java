@@ -9,11 +9,11 @@ public class HelloJava4 {
 	}
 	
 	public static void printGreeting(){
-		PrintWriter out = new PrintWriter(System.out, true);
-		out.println("Hello Java");
-		out.println("ein Gruss aus dem Package pr1.first.steps");
-		out.println("  aus der Klasse pr1.first.steps.HelloJava4");
-		out.println("    aus der Methode pr1.first.steps.HelloJava4.main()");
-		out.println("jetzt geth's los");
+		PrintWriter pout = new PrintWriter(System.out, true);
+		pout.println("Hello Java");
+		pout.println("ein Gruss aus dem Package pr1.first.steps");
+		pout.println("  aus der Klasse pr1.first.steps.HelloJava4");
+		pout.println("    aus der Methode pr1.first.steps.HelloJava4.main()");
+		pout.println("jetzt geth's los");
 	}
 }
