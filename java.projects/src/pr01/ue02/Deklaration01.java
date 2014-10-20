@@ -1,4 +1,4 @@
-package pr01.uebungen02;
+package pr01.ue02;
 
 import java.io.PrintWriter;
 

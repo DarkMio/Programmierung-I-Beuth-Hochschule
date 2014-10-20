@@ -8,7 +8,9 @@ The contents of this provided software is rather simplistic and should be clone-
 ---
 Software ordered in excersizes, given are the calendar weeks
 
-1. Hello World (KW41)
+1. pr01.first.steps/ Hello World (KW41)
+2. pr01.a01/ First Methods & More Methods (KW42)
+3. pr01.ue02/ Deklaration01 & Hello Numbers (KW43)
 
 ####Content Rights
 ---
